@@ -7,13 +7,10 @@
   + __\\__ 的后方是换行符时，上下输入的两行将视为一行  
   
 + touch
-```bash
-  touch a{1..10}
-  touch {a,b}{1..10}
-  
-  
-  
-```
+  ```bash
+    touch a{1..10}
+    touch {a,b}{1..10}
+  ```
 + 标准I/O
   + stdin &emsp;标准输入=0
   + stdout&ensp;标准输出=1
