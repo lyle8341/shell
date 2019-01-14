@@ -100,4 +100,19 @@
    do
      ls
    done
-  ```  
+  ```
++ while循环
+  ```bash
+  while 条件
+  do
+    ls
+  done
+  ```
++ until循环
+  ```bash
+  until 条件
+  do
+    ps -ef
+  done
+  ```
+  
